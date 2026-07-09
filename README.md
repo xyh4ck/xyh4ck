@@ -31,23 +31,6 @@
 ### 📌 Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/xyh4ck/SmartSafe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyh4ck&repo=SmartSafe&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/xyh4ck/FirmSage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyh4ck&repo=FirmSage&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/xyh4ck/iot_poc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyh4ck&repo=iot_poc&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/xyh4ck/ADSMS_WEB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyh4ck&repo=ADSMS_WEB&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=xyh4ck&&style=flat-square&color=blueviolet" align="center" />
 </div>
 
