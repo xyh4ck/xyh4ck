@@ -15,28 +15,6 @@
 
 <br/>
 
-<table><tr><td valign="top" width="33%">
-
-### GitHub Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xyh4ck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" align="center" /></div>
-
-</td><td valign="top" width="33%">
-
-### 🔥 Streak Stats
-
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xyh4ck&theme=tokyonight&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="33%">
-
-### 🚀 Top Languages
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyh4ck&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" align="center" /></div>
-
-</td></tr></table>
-
-<br/>
-
 ### 🛠️ Tech Stack
 
 <div align="center">
